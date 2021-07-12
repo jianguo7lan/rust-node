@@ -1,0 +1,2 @@
+# rust-node
+wassembly node
